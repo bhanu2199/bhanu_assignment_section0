@@ -1,4 +1,4 @@
-This is git and github.
+blue
 Feels good to learn about it.
 <<<<<<< HEAD
 lllllll
